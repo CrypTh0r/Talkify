@@ -1,0 +1,1 @@
+Talkify is a speech to text blocklet application. Simply toggle the "On/Off" button to access your microphone then speak freely. The speech will be transcribed into text on the screen, which can be copied and pasted in any place of your choice. The clear button clear the text on the screen. 
